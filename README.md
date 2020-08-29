@@ -2,3 +2,4 @@
 - [x] [`MapReduce`](papers/mapreduce.pdf)
 - [x] [`Google File System`](papers/gfs.pdf)
 - [x] [`Raft: consensus algorithm`](papers/raft.pdf) 
+- [x] [`Zookeeper: Wait-free cordination`](papers/zookeeper.pdf)
