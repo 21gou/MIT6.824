@@ -4,3 +4,4 @@
 - [x] [`Raft: consensus algorithm`](papers/raft.pdf) 
 - [x] [`Zookeeper: Wait-free cordination`](papers/zookeeper.pdf)
 - [x] [`Object Storage on CRAQ`](papers/craq.pdf)
+- [x] [`Amazon Aurora`](papers/aurora.pdf)
