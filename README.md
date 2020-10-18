@@ -5,3 +5,4 @@
 - [x] [`Zookeeper: Wait-free cordination`](papers/zookeeper.pdf)
 - [x] [`Object Storage on CRAQ`](papers/craq.pdf)
 - [x] [`Amazon Aurora`](papers/aurora.pdf)
+- [x] [`Frangipani: scalable distributed file system`](papers/frangipani.pdf)
